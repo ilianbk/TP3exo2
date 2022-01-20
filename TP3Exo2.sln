@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3Exo2", "TP3Exo2\TP3Exo2.csproj", "{04E973EF-FBF8-46D9-9555-4BE9DCA6F0A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E973EF-FBF8-46D9-9555-4BE9DCA6F0A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E973EF-FBF8-46D9-9555-4BE9DCA6F0A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E973EF-FBF8-46D9-9555-4BE9DCA6F0A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E973EF-FBF8-46D9-9555-4BE9DCA6F0A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
